@@ -6,7 +6,7 @@ I am the CEO and CTO at [ReliveAI](https://ReliveAi.com), where I lead our missi
 
 [![Twitter Badge](https://img.shields.io/badge/-@mehtasagar95-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mehtasagar95)](https://twitter.com/mehtasagar95)
 [![Linkedin Badge](https://img.shields.io/badge/-mehtasagar1995-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehtasagar1995/)
-[![Mail Badge](https://img.shields.io/badge/-mehtasagar95-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mehtasagar95@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-mehtasagar95-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:info@reliveai.com)
 
 - 🔭 I’m currently leading and innovating at [ReliveAI](https://ReliveAi.com)
 - 🌱 I’m on a constant journey of learning and self-improvement
