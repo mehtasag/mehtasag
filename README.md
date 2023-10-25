@@ -35,4 +35,4 @@ I am the CEO and CTO at [ReliveAI](https://ReliveAi.com), where I lead our missi
 ### Let's Talk
 
 - 💬 Ask me about AI, leadership, or tech in general. I'm always up for a good conversation!
-- 📬 You can reach me at [mehtasagar95@gmail.com](mailto:info@reliveai.com)
+- 📬 You can reach me at [info@reliveai.com](mailto:info@reliveai.com)
